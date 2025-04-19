@@ -1,39 +1,30 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
+
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Atharv's Portfolio 
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Atharv Musale
+headline: Electronics and Telecommunication Engineer | Tech Enthusiast | Exploring AI & Cybersecurity
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  I’m Atharv Musale, a final-year Electronics and Telecommunication engineering student with a strong interest in tech, coding, and problem-solving. While my core is in electronics, I’ve expanded my skills through projects and internships in machine learning, cybersecurity, and web development.
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/Profile.jpeg
 
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing
-
+resume-url: https://drive.google.com/file/d/1_faSkXehvMNMf_5Fjx1NbTcFUjhQcB9F/view?usp=drivesdk
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  linkedin: Atharv Musale    # https://www.linkedin.com/in/atharv-musale-442144231/ 
+  github: Atharv7125    # https://github.com/Atharv7125 
+  stackoverflow:     # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
@@ -45,50 +36,44 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: Machine Learning & AI
     tools:
-    - Onshape
-    - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
-    tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
-    tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
-    tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
-    tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
+    - Python
+    - scikit-kearn
+    - Pandas
+    - NumPy
+    - TensorFlow
+    - OpenCV
 
+  - category: Electronics & Embedded Systems
+    tools:
+    - MATLAB
+    - Proteus
+    - Multisim
+    - Arduino IDE
+    - Vivado (HDL Design)
+
+  - category: Web Development
+    tools:
+    - HTML
+    - CSS
+    - JavaScript
+
+  - category: Cybersecurity
+    tools:
+    - Wireshark
+    - Burp Suite
+    - Honeypot
+    - Ethical Hcking Concepts
+
+  - category: Programming Language
+    tools:
+    - Python
+    - C
+    - C++
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+formspree-key:   https://formspree.io/f/xkgjdnkg
 
 
 
